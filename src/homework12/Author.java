@@ -1,7 +1,7 @@
 package homework12;
 
 public class Author {
-    public static Author author;
+
     private String name;
     private String surname;
 
